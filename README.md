@@ -70,4 +70,20 @@ Once you get the generated output, copy the code and paste it in Quantum_SnakeX.
 python Quantum_SnakeX.py
 ```
 
+🎥 Embedding Your Video
+Since GitHub doesn't directly support video embedding, you have two options:
+
+1️⃣ Clickable Thumbnail Link
+
+  [![QuantumSnakeX Gameplay](media/Screenshot%202025-05-23%20112716.png)](media/Snake%20Game%202025-05-23%2009-46-33.mp4)
+
+2️⃣ Direct Video Link
+
+🎥 **Watch the Gameplay Demo**: [Click to Watch](media/Snake%20Game%202025-05-23%2009-46-33.mp4)
+
+📷 Screenshots
+![Gameplay Screenshot 1](media/Screenshot%202025-05-23%20063645.png)
+![Gameplay Screenshot 2](media/Screenshot%202025-05-23%20064754.png)
+![Gameplay Screenshot 3](media/Screenshot%202025-05-23%20064809.png)
+![Gameplay Screenshot 4](media/Screenshot%202025-05-23%20112716.png)
 
